@@ -1,0 +1,23 @@
+.forecast-card {
+    margin: 20px;
+    padding: 20px;
+}
+
+.search-column {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.uv-favorable {
+    background-color: green;
+    color: white;
+}
+
+.uv-moderate {
+    background-color: yellow;
+}
+
+.uv-severe {
+    background-color: red;
+    color: white;
+}
